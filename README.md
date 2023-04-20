@@ -1,15 +1,13 @@
 # Chisco
+I developed a Flutter app for a client that integrates with their IoT hardware device installed in homes.
+
+The device captures cooler controller signals and connects to the Chisco app.
+
+Users can add any cooler to the app and control them remotely via their phone. The app allows users to adjust cooler settings such as mode, horizontal and vertical air swing, start time, and schedule.
+
+Chisco also connects to a customized power tee, designed by the client, featuring four power outlets and two USB ports. Users can turn on/off each outlet and set schedules for them.
+
 This app is for one of my clients and alse my first flutter project
-
-our client made a IOT-base hardware device that he is installed in homes
-
-this device get All cooler controler's signals and also connect to this application that i build and the user can add any cooler he has in the Chisco app and control them all through his phone.
-
-
-user can chnage Cooler mode,horizontal and vertical air swing, can set Start time of Cooler and also set Schdule for each of them.
-Chisco Also Connects to Customized power tee that our customer made it.
-
-this Power tee has 4 Power outlet and 2 usb output and user can Power Off/On each one them and also can define Schedule for each.
 
 The most important libraries that I used in this project:
 
