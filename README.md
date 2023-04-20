@@ -1,13 +1,5 @@
-# VIAQ
-Indoor Air Quality Monitoring Application
+# Chisco
 
-
-![Cooler Schedule Page](https://user-images.githubusercontent.com/54314092/233347458-aa5f7f53-ea9d-404f-adc9-50a9d4812db8.png)
-![Cooler Schedule Page-1](https://user-images.githubusercontent.com/54314092/233347502-4b2bb974-bdae-4729-9c61-d62883ae20cf.png)
-![Schedule Page - empty](https://user-images.githubusercontent.com/54314092/233347585-d6da471c-feb3-49b4-ba72-a320f4fbbe91.png)
-![Schedule Page - empty-1](https://user-images.githubusercontent.com/54314092/233347596-d77d3155-cd77-4f3f-9bec-ae7fe0319366.png)
-![Cooler Add Schedule](https://user-images.githubusercontent.com/54314092/233347624-69004d7a-8511-47a1-a24a-565dda15c158.png)
-![Cooler Add Schedule-1](https://user-images.githubusercontent.com/54314092/233347634-ed242da3-932c-42ee-ba4e-e56a03db41a5.png)
 
 <table>
   <tr>
